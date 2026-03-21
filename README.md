@@ -22,7 +22,8 @@
 ## Overview
  - To Conduct an Exploratory Data Analysis on GlobalMart's sales data to uncover insights that can drive business decisions.
    
--Objectives: 1. Which product categories are the most profitable?
+-Objectives:
+            1. Which product categories are the most profitable?
 
             2.Are there any noticeable trends in sales over time?
             
@@ -30,7 +31,8 @@
             
             4.Is there a correlation between discount and profit?
             
--Learning outcomes: 1.Able to calculate the total sales and profit
+-Learning outcomes: 
+                   1.Able to calculate the total sales and profit
 
                    2.Identify the 10 top selling products
                    
