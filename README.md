@@ -52,5 +52,11 @@
   
  - df.dropna(inplace=True)
 
+## Technologies used
+- Jupyter Notebook
+
+- Libraries: pandas, numpy, matplotlib, seaborn, % matplotlib inline
+
+
 
 
