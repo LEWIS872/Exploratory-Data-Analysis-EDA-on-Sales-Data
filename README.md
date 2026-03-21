@@ -43,12 +43,13 @@
 ##Datasets
 - Source of Dataset: Global Superstore Dataset (available on Kaggle)
 - Size of Dataset: (1000,24)
-- #DATA CLEANING
+##DATA CLEANING
 - #check missing values
-  print(df.isnull().sum())
   
-- # Drop missing values
- df.dropna(inplace=True)
+  - print(df.isnull().sum())
+  ## Drop missing values
+  
+ - df.dropna(inplace=True)
 
 
 
