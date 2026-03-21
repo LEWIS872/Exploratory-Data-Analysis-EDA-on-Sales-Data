@@ -12,8 +12,7 @@
 -[License] ( #License)
 
 ## Overview
-##Objectives
-Conduct an exploratory data analysis on GlobalMart's sales data to uncover insights that can drive business decisions.
+ To Conduct an Exploratory Data Analysis on GlobalMart's sales data to uncover insights that can drive business decisions.
 Objectives: 1. Which product categories are the most profitable?
             2.Are there any noticeable trends in sales over time?
             3.How do sales and profits vary by region?
