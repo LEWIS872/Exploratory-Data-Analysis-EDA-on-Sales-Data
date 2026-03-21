@@ -43,6 +43,7 @@
 ##Datasets
 - Source of Dataset: Global Superstore Dataset (available on Kaggle)
 - Size of Dataset: (1000,24)
+  
 ##DATA CLEANING
 - #check missing values
   
